@@ -7,13 +7,13 @@ about:
   head: 105c0c2
   archived: false
   latestVersion: v0.15.0
-  collectedAt: 2026-09-04T19:31:51Z
+  collectedAt: 2026-09-04T21:02:35Z
 timeline:
   created: 2017-06-18
   lastCommit: 2026-08-20
   lastRelease: 2026-08-11
 popularity:
-  star: 8818
+  star: 8819
   watcher: 85
   fork: 625
   release: 71
@@ -83,6 +83,54 @@ total:
   openIssue: 113
   commit: 1122
 ---
+path: /home/runner/.x-repo/github.com/pdfcpu/pdfcpu
+collectedAt: 2026-09-04T21:02:45Z
+loc:
+  Go:
+    code: 170605
+    comments: 17017
+    blanks: 27357
+    files: 545
+  Json:
+    code: 59097
+    comments: 0
+    blanks: 599
+    files: 108
+  Sh:
+    code: 1543
+    comments: 1254
+    blanks: 626
+    files: 75
+  Yaml:
+    code: 30
+    comments: 43
+    blanks: 26
+    files: 1
+  Dockerfile:
+    code: 10
+    comments: 26
+    blanks: 12
+    files: 1
+  Html:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 313
+    blanks: 146
+    files: 4
+  Text:
+    code: 0
+    comments: 6691
+    blanks: 2014
+    files: 6
+total:
+  code: 231287
+  comments: 25344
+  blanks: 30780
+  files: 741
 ---
 date: "2026-08-24"
 repo:
