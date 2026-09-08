@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 888,
       "digest": "sha256:ebe9b16e0cc6d044540b3b92f174aa96fbf65fdfc11e36d9e9c1be76aeb05dd5",
-      "download_count": 243,
+      "download_count": 245,
       "created_at": "2026-08-11T21:08:50Z",
       "updated_at": "2026-08-11T21:08:50Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.15.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4838192,
       "digest": "sha256:2f49a15594dd46289d62219a1a2c7b26f0128ec0c658e655a2e62125db0c49ad",
-      "download_count": 175,
+      "download_count": 176,
       "created_at": "2026-08-11T21:08:50Z",
       "updated_at": "2026-08-11T21:08:59Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.15.0/pdfcpu_0.15.0_Darwin_arm64.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4689192,
       "digest": "sha256:41e452eb52ea735378b84d112aef47b27d7148ec02bdb4ac2de4eb7b6a8147cd",
-      "download_count": 105,
+      "download_count": 106,
       "created_at": "2026-08-11T21:08:50Z",
       "updated_at": "2026-08-11T21:08:58Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.15.0/pdfcpu_0.15.0_Linux_arm64.tar.xz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5603500,
       "digest": "sha256:652830db95e81868dbe38fbb3f506365511c99a1831b5e8955deac38f3f645f8",
-      "download_count": 2649,
+      "download_count": 2700,
       "created_at": "2026-08-11T21:08:50Z",
       "updated_at": "2026-08-11T21:09:00Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.15.0/pdfcpu_0.15.0_Linux_x86_64.tar.xz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6032639,
       "digest": "sha256:5638f02daf759e2aae019ddaeee19907681ab807c6114b1ee916db0f1466016e",
-      "download_count": 93,
+      "download_count": 94,
       "created_at": "2026-08-11T21:08:50Z",
       "updated_at": "2026-08-11T21:09:00Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.15.0/pdfcpu_0.15.0_Windows_i386.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6225025,
       "digest": "sha256:9809a70ee60ba78252628cc9738b284fbebf22bc2616ae903fb89b807e75a8a6",
-      "download_count": 1394,
+      "download_count": 1408,
       "created_at": "2026-08-11T21:08:50Z",
       "updated_at": "2026-08-11T21:09:00Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.15.0/pdfcpu_0.15.0_Windows_x86_64.zip"
