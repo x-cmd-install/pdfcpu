@@ -4,7 +4,7 @@
 
 PDF tooling for Go and the command line.
 
-![pdfcpu](https://repo.x-cmd.io/pdfcpu.svg)
+![pdfcpu](https://repo.x-cmd.io/pdfcpu.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,25 @@ x install pdfcpu
 - **最新版本**: `v0.15.0` (2026-08-11)
 - **最近提交**: 2026-08-20
 - **Release 含资产**: 10 个
-- **发布时间**: 2026-08-11T21:25:27Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/pdfcpu/pdfcpu/releases/download/v0.15.0/checksums.txt) | 888 B | `other` |
+| [pdfcpu_0.15.0_Darwin_arm64.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.15.0/pdfcpu_0.15.0_Darwin_arm64.tar.xz) | 4.6 MiB | `native/darwin/arm64` |
+| [pdfcpu_0.15.0_Darwin_x86_64.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.15.0/pdfcpu_0.15.0_Darwin_x86_64.tar.xz) | 5.4 MiB | `native/darwin/x64` |
+| [pdfcpu_0.15.0_Js_wasm.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.15.0/pdfcpu_0.15.0_Js_wasm.tar.xz) | 5.9 MiB | `other` |
+| [pdfcpu_0.15.0_Linux_arm64.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.15.0/pdfcpu_0.15.0_Linux_arm64.tar.xz) | 4.5 MiB | `native/linux/arm64` |
+| [pdfcpu_0.15.0_Linux_armv7.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.15.0/pdfcpu_0.15.0_Linux_armv7.tar.xz) | 4.8 MiB | `native/linux/arm` |
+| [pdfcpu_0.15.0_Linux_i386.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.15.0/pdfcpu_0.15.0_Linux_i386.tar.xz) | 5.0 MiB | `native/linux/x86` |
+| [pdfcpu_0.15.0_Linux_x86_64.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.15.0/pdfcpu_0.15.0_Linux_x86_64.tar.xz) | 5.3 MiB | `native/linux/x64` |
+| [pdfcpu_0.15.0_Windows_i386.zip](https://github.com/pdfcpu/pdfcpu/releases/download/v0.15.0/pdfcpu_0.15.0_Windows_i386.zip) | 5.8 MiB | `native/win/x64` |
+| [pdfcpu_0.15.0_Windows_x86_64.zip](https://github.com/pdfcpu/pdfcpu/releases/download/v0.15.0/pdfcpu_0.15.0_Windows_x86_64.zip) | 5.9 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 8,828 · **Fork**: 624 · **开放 issue**: 1,107 · **贡献者**: 54
+- **Star**: 8,829 · **Fork**: 624 · **开放 issue**: 1,107 · **贡献者**: 54
 
 ## 累计统计
 
@@ -72,4 +86,4 @@ pdfcpu 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:53:28Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:29:48Z._
