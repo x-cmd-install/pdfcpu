@@ -4,7 +4,7 @@
 
 PDF tooling for Go and the command line.
 
-![pdfcpu](https://repo.x-cmd.io/pdfcpu.svg)
+[![x-cmd/install — pdfcpu Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pdfcpu.svg)](https://x-cmd.com/install/pdfcpu)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,843 · **Forks**: 633 · **Open issues**: 1,113 · **Contributors**: 54
+- **Stars**: 8,845 · **Forks**: 634 · **Open issues**: 1,113 · **Contributors**: 54
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 6 | 0 | 12 | 0 |
-| last60d | 2026-07-20 | 3 | 0 | 6 | 13 | 20 | 22 |
-| 90d | 2026-06-20 | 3 | 1 | 6 | 17 | 21 | 69 |
-| last180d | 2026-03-22 | 6 | 2 | 6 | 39 | 25 | 118 |
-| 360d | 2025-09-23 | 7 | 13 | 6 | 99 | 34 | 169 |
-| last720d | 2024-09-28 | 10 | 39 | 6 | 246 | 65 | 301 |
+| 30d | 2026-08-21 | 0 | 0 | 6 | 0 | 11 | 0 |
+| last60d | 2026-07-22 | 3 | 0 | 6 | 3 | 18 | 22 |
+| 90d | 2026-06-22 | 3 | 1 | 6 | 17 | 21 | 69 |
+| last180d | 2026-03-24 | 6 | 2 | 6 | 39 | 25 | 118 |
+| 360d | 2025-09-25 | 7 | 13 | 6 | 99 | 34 | 169 |
+| last720d | 2024-09-30 | 10 | 39 | 6 | 245 | 65 | 296 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for pdfcpu lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:38:23Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:56:35Z._
