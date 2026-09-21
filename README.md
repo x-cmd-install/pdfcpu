@@ -14,14 +14,14 @@ x install pdfcpu
 
 ## Code insight
 
-Total: **231,286** lines of code across **730** files in the top 5 languages.
+Total: **262,652** lines of code across **832** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 170,605 | 17,017 | 27,357 | 545 |
-| Json | 59,097 | 0 | 599 | 108 |
+| Go | 201,754 | 19,032 | 29,585 | 646 |
+| Json | 59,311 | 0 | 599 | 109 |
 | Sh | 1,543 | 1,254 | 626 | 75 |
-| Yaml | 30 | 43 | 26 | 1 |
+| Yaml | 33 | 46 | 29 | 1 |
 | Dockerfile | 10 | 26 | 12 | 1 |
 
 ## OpenSSF Scorecard
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.15.0` (2026-08-11)
-- **Last commit**: 2026-08-20
+- **Latest**: `v0.16.0-rc.1` (2026-08-11)
+- **Last commit**: 2026-09-20
 - **Assets in release**: 10
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 89 · **Open PRs**: 6 · **Closed issues**: 993 · **Open issues**: 120 · **Commits**: 1122
+- **Releases**: 72 · **Merged PRs**: 89 · **Open PRs**: 0 · **Closed issues**: 1013 · **Open issues**: 100 · **Commits**: 1168
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 0 | 6 | 0 | 11 | 0 |
-| last60d | 2026-07-22 | 3 | 0 | 6 | 3 | 18 | 22 |
-| 90d | 2026-06-22 | 3 | 1 | 6 | 17 | 21 | 69 |
-| last180d | 2026-03-24 | 6 | 2 | 6 | 39 | 25 | 118 |
-| 360d | 2025-09-25 | 7 | 13 | 6 | 99 | 34 | 169 |
-| last720d | 2024-09-30 | 10 | 39 | 6 | 245 | 65 | 296 |
+| 30d | 2026-08-22 | 1 | 0 | 0 | 11 | 0 | 38 |
+| last60d | 2026-07-23 | 4 | 0 | 0 | 18 | 3 | 60 |
+| 90d | 2026-06-23 | 4 | 1 | 0 | 34 | 4 | 115 |
+| last180d | 2026-03-25 | 7 | 2 | 0 | 57 | 7 | 162 |
+| 360d | 2025-09-26 | 8 | 13 | 0 | 117 | 16 | 214 |
+| last720d | 2024-10-01 | 11 | 39 | 0 | 264 | 46 | 342 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for pdfcpu lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T04:56:35Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T04:55:18Z._
