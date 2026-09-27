@@ -14,11 +14,11 @@ x install pdfcpu
 
 ## Code insight
 
-Total: **262,652** lines of code across **832** files in the top 5 languages.
+Total: **263,003** lines of code across **834** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 201,754 | 19,032 | 29,585 | 646 |
+| Go | 202,105 | 19,070 | 29,607 | 648 |
 | Json | 59,311 | 0 | 599 | 109 |
 | Sh | 1,543 | 1,254 | 626 | 75 |
 | Yaml | 33 | 46 | 29 | 1 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.16.0-rc.1` (2026-08-11)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-26
 - **Assets in release**: 10
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 72 · **Merged PRs**: 89 · **Open PRs**: 0 · **Closed issues**: 1013 · **Open issues**: 102 · **Commits**: 1168
+- **Releases**: 72 · **Merged PRs**: 89 · **Open PRs**: 0 · **Closed issues**: 1014 · **Open issues**: 101 · **Commits**: 1170
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 1 | 0 | 0 | 9 | 2 | 38 |
-| last60d | 2026-07-28 | 4 | 0 | 0 | 17 | 4 | 60 |
-| 90d | 2026-06-28 | 4 | 1 | 0 | 34 | 6 | 115 |
-| last180d | 2026-03-30 | 7 | 2 | 0 | 56 | 8 | 162 |
-| 360d | 2025-10-01 | 8 | 13 | 0 | 115 | 17 | 214 |
-| last720d | 2024-10-06 | 11 | 39 | 0 | 262 | 48 | 340 |
+| 30d | 2026-08-28 | 1 | 0 | 0 | 10 | 1 | 40 |
+| last60d | 2026-07-29 | 3 | 0 | 0 | 17 | 1 | 62 |
+| 90d | 2026-06-29 | 4 | 1 | 0 | 35 | 5 | 117 |
+| last180d | 2026-03-31 | 7 | 2 | 0 | 57 | 7 | 164 |
+| 360d | 2025-10-02 | 8 | 13 | 0 | 116 | 16 | 216 |
+| last720d | 2024-10-07 | 11 | 39 | 0 | 262 | 47 | 342 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for pdfcpu lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T04:59:15Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:15:30Z._
