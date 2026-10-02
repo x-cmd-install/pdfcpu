@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1866,
       "digest": "sha256:57fe4ca0b6e5be91bd506babfeea5230a4248d7991c8d455bcd11eeaaa505556",
-      "download_count": 136,
+      "download_count": 153,
       "created_at": "2026-09-28T21:07:18Z",
       "updated_at": "2026-09-28T21:07:19Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5373260,
       "digest": "sha256:69027ec8de241557858d2ec78788053b77da02a3372d344ace5e09575707d5aa",
-      "download_count": 29,
+      "download_count": 36,
       "created_at": "2026-09-28T21:00:35Z",
       "updated_at": "2026-09-28T21:00:40Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Darwin_arm64.tar.xz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6268708,
       "digest": "sha256:0fb2933749f2033327386bd3b1f64a6fef97078fdd0b9226a69a981be79129ff",
-      "download_count": 14,
+      "download_count": 18,
       "created_at": "2026-09-28T21:00:36Z",
       "updated_at": "2026-09-28T21:00:42Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Darwin_x86_64.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 11075,
       "digest": "sha256:97013ae437674c451db8651c44a977f6362b6cd71a9164b5cf3d3a8d6f834270",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-09-28T21:00:42Z",
       "updated_at": "2026-09-28T21:00:42Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Darwin_x86_64.tar.xz.sbom.json"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6853792,
       "digest": "sha256:06fc7744c1c34ae830f15b59b784729236d8b95a9961dacc31925cc6e962fd29",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-09-28T21:00:35Z",
       "updated_at": "2026-09-28T21:00:42Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Js_wasm.tar.xz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5197748,
       "digest": "sha256:8c8ad5abb8b10b72600ae46d2f8e325140b21a5ffe133f649defb133726e4e4e",
-      "download_count": 25,
+      "download_count": 29,
       "created_at": "2026-09-28T21:00:35Z",
       "updated_at": "2026-09-28T21:00:41Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Linux_arm64.tar.xz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 11050,
       "digest": "sha256:ea253c9eab57ae37b00d182ab31323ff447b4ac7bec7b8ffeccd1bab79f1a149",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-28T21:00:41Z",
       "updated_at": "2026-09-28T21:00:42Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Linux_arm64.tar.xz.sbom.json"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 5548676,
       "digest": "sha256:ea1b86d55b7876ff50d512059761919469b02fa6449a5f86933957a28ba7d924",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-28T21:00:35Z",
       "updated_at": "2026-09-28T21:00:41Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Linux_armv7.tar.xz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 5831740,
       "digest": "sha256:2aecfc48b67db47cacd2a18f2786c7182db745b4ab414d776de2fa181cb350eb",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-09-28T21:00:36Z",
       "updated_at": "2026-09-28T21:00:41Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Linux_i386.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 6215116,
       "digest": "sha256:f55d112c28bb0e9d2d3f87b847bb12aa7243e86aae1d21bda47b31c87fcba241",
-      "download_count": 529,
+      "download_count": 1063,
       "created_at": "2026-09-28T21:00:36Z",
       "updated_at": "2026-09-28T21:00:41Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Linux_x86_64.tar.xz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 11063,
       "digest": "sha256:508c30bd3edca6cd846b7add2bd6192f1833ab4f45cc51269e95a50142943705",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-09-28T21:00:42Z",
       "updated_at": "2026-09-28T21:00:42Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Linux_x86_64.tar.xz.sbom.json"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 6684119,
       "digest": "sha256:da6061ab90241cbacebad9d7369abb5aca422fe8516ebb94eee246e9825dc8ae",
-      "download_count": 31,
+      "download_count": 35,
       "created_at": "2026-09-28T21:00:36Z",
       "updated_at": "2026-09-28T21:00:42Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Windows_i386.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 6911387,
       "digest": "sha256:10eec0629e2472fd7d6df8ca5a4b0c5c3ef47bc3da7003583143ad85c31eeab7",
-      "download_count": 265,
+      "download_count": 312,
       "created_at": "2026-09-28T21:00:35Z",
       "updated_at": "2026-09-28T21:00:42Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Windows_x86_64.zip"
