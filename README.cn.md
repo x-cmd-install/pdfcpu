@@ -14,11 +14,11 @@ x install pdfcpu
 
 ## 代码洞察
 
-合计: **263,003** 行代码（覆盖前 5 种语言、共 **834** 个文件）。
+合计: **267,861** 行代码（覆盖前 5 种语言、共 **849** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 202,105 | 19,070 | 29,607 | 648 |
+| Go | 206,963 | 19,296 | 29,948 | 663 |
 | Json | 59,311 | 0 | 599 | 109 |
 | Sh | 1,543 | 1,254 | 626 | 75 |
 | Yaml | 33 | 46 | 29 | 1 |
@@ -42,52 +42,52 @@ x install pdfcpu
 
 ## 发布
 
-- **最新版本**: `v0.16.0` (2026-09-28)
-- **最近提交**: 2026-09-28
+- **最新版本**: `v0.16.1` (2026-10-04)
+- **最近提交**: 2026-10-04
 - **Release 含资产**: 19 个
 
 ## 流行度
 
-- **Star**: 8,857 · **Fork**: 638 · **开放 issue**: 1,116 · **贡献者**: 54
+- **Star**: 8,858 · **Fork**: 638 · **开放 issue**: 1,116 · **贡献者**: 54
 
 ## 累计统计
 
-- **发布数**: 73 · **已合并 PR**: 89 · **开放 PR**: 0 · **已关闭 issue**: 1014 · **开放 issue**: 102 · **提交数**: 1171
+- **发布数**: 74 · **已合并 PR**: 89 · **开放 PR**: 0 · **已关闭 issue**: 1016 · **开放 issue**: 100 · **提交数**: 1203
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 2 | 0 | 0 | 8 | 2 | 35 |
-| last60d | 2026-08-05 | 3 | 0 | 0 | 17 | 2 | 55 |
-| 90d | 2026-07-06 | 5 | 1 | 0 | 34 | 5 | 83 |
-| last180d | 2026-04-07 | 8 | 2 | 0 | 56 | 8 | 165 |
-| 360d | 2025-10-09 | 9 | 7 | 0 | 115 | 17 | 210 |
-| last720d | 2024-10-14 | 12 | 39 | 0 | 260 | 48 | 342 |
+| 30d | 2026-09-05 | 3 | 0 | 0 | 9 | 1 | 65 |
+| last60d | 2026-08-06 | 4 | 0 | 0 | 18 | 1 | 82 |
+| 90d | 2026-07-07 | 6 | 1 | 0 | 35 | 4 | 108 |
+| last180d | 2026-04-08 | 9 | 2 | 0 | 56 | 7 | 197 |
+| 360d | 2025-10-10 | 10 | 7 | 0 | 116 | 16 | 242 |
+| last720d | 2024-10-15 | 13 | 37 | 0 | 260 | 47 | 373 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/checksums.txt) | 1.8 KiB | `other` |
-| [pdfcpu_0.16.0_Darwin_arm64.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Darwin_arm64.tar.xz) | 5.1 MiB | `native/darwin/arm64` |
-| [pdfcpu_0.16.0_Darwin_arm64.tar.xz.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Darwin_arm64.tar.xz.sbom.json) | 10.8 KiB | `native/darwin/arm64` |
-| [pdfcpu_0.16.0_Darwin_x86_64.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Darwin_x86_64.tar.xz) | 6.0 MiB | `native/darwin/x64` |
-| [pdfcpu_0.16.0_Darwin_x86_64.tar.xz.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Darwin_x86_64.tar.xz.sbom.json) | 10.8 KiB | `native/darwin/x64` |
-| [pdfcpu_0.16.0_Js_wasm.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Js_wasm.tar.xz) | 6.5 MiB | `other` |
-| [pdfcpu_0.16.0_Js_wasm.tar.xz.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Js_wasm.tar.xz.sbom.json) | 10.1 KiB | `other` |
-| [pdfcpu_0.16.0_Linux_arm64.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Linux_arm64.tar.xz) | 5.0 MiB | `native/linux/arm64` |
-| [pdfcpu_0.16.0_Linux_arm64.tar.xz.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Linux_arm64.tar.xz.sbom.json) | 10.8 KiB | `native/linux/arm64` |
-| [pdfcpu_0.16.0_Linux_armv7.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Linux_armv7.tar.xz) | 5.3 MiB | `native/linux/arm` |
-| [pdfcpu_0.16.0_Linux_armv7.tar.xz.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Linux_armv7.tar.xz.sbom.json) | 10.8 KiB | `native/linux/arm` |
-| [pdfcpu_0.16.0_Linux_i386.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Linux_i386.tar.xz) | 5.6 MiB | `native/linux/x86` |
-| [pdfcpu_0.16.0_Linux_i386.tar.xz.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Linux_i386.tar.xz.sbom.json) | 10.8 KiB | `native/linux/x86` |
-| [pdfcpu_0.16.0_Linux_x86_64.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Linux_x86_64.tar.xz) | 5.9 MiB | `native/linux/x64` |
-| [pdfcpu_0.16.0_Linux_x86_64.tar.xz.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Linux_x86_64.tar.xz.sbom.json) | 10.8 KiB | `native/linux/x64` |
-| [pdfcpu_0.16.0_Windows_i386.zip](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Windows_i386.zip) | 6.4 MiB | `native/win/x64` |
-| [pdfcpu_0.16.0_Windows_i386.zip.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Windows_i386.zip.sbom.json) | 12.2 KiB | `native/win/x64` |
-| [pdfcpu_0.16.0_Windows_x86_64.zip](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Windows_x86_64.zip) | 6.6 MiB | `native/win/x64` |
-| [pdfcpu_0.16.0_Windows_x86_64.zip.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.0/pdfcpu_0.16.0_Windows_x86_64.zip.sbom.json) | 12.3 KiB | `native/win/x64` |
+| [checksums.txt](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/checksums.txt) | 1.8 KiB | `other` |
+| [pdfcpu_0.16.1_Darwin_arm64.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Darwin_arm64.tar.xz) | 5.2 MiB | `native/darwin/arm64` |
+| [pdfcpu_0.16.1_Darwin_arm64.tar.xz.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Darwin_arm64.tar.xz.sbom.json) | 10.8 KiB | `native/darwin/arm64` |
+| [pdfcpu_0.16.1_Darwin_x86_64.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Darwin_x86_64.tar.xz) | 6.1 MiB | `native/darwin/x64` |
+| [pdfcpu_0.16.1_Darwin_x86_64.tar.xz.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Darwin_x86_64.tar.xz.sbom.json) | 10.8 KiB | `native/darwin/x64` |
+| [pdfcpu_0.16.1_Js_wasm.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Js_wasm.tar.xz) | 6.6 MiB | `other` |
+| [pdfcpu_0.16.1_Js_wasm.tar.xz.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Js_wasm.tar.xz.sbom.json) | 10.1 KiB | `other` |
+| [pdfcpu_0.16.1_Linux_arm64.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Linux_arm64.tar.xz) | 5.0 MiB | `native/linux/arm64` |
+| [pdfcpu_0.16.1_Linux_arm64.tar.xz.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Linux_arm64.tar.xz.sbom.json) | 10.8 KiB | `native/linux/arm64` |
+| [pdfcpu_0.16.1_Linux_armv7.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Linux_armv7.tar.xz) | 5.4 MiB | `native/linux/arm` |
+| [pdfcpu_0.16.1_Linux_armv7.tar.xz.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Linux_armv7.tar.xz.sbom.json) | 10.8 KiB | `native/linux/arm` |
+| [pdfcpu_0.16.1_Linux_i386.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Linux_i386.tar.xz) | 5.6 MiB | `native/linux/x86` |
+| [pdfcpu_0.16.1_Linux_i386.tar.xz.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Linux_i386.tar.xz.sbom.json) | 10.8 KiB | `native/linux/x86` |
+| [pdfcpu_0.16.1_Linux_x86_64.tar.xz](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Linux_x86_64.tar.xz) | 6.0 MiB | `native/linux/x64` |
+| [pdfcpu_0.16.1_Linux_x86_64.tar.xz.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Linux_x86_64.tar.xz.sbom.json) | 10.8 KiB | `native/linux/x64` |
+| [pdfcpu_0.16.1_Windows_i386.zip](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Windows_i386.zip) | 6.5 MiB | `native/win/x64` |
+| [pdfcpu_0.16.1_Windows_i386.zip.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Windows_i386.zip.sbom.json) | 12.2 KiB | `native/win/x64` |
+| [pdfcpu_0.16.1_Windows_x86_64.zip](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Windows_x86_64.zip) | 6.7 MiB | `native/win/x64` |
+| [pdfcpu_0.16.1_Windows_x86_64.zip.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.1/pdfcpu_0.16.1_Windows_x86_64.zip.sbom.json) | 12.3 KiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -98,4 +98,4 @@ pdfcpu 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261004.yml` · 2026-10-04T05:46:45Z._
+_数据快照: `data/card/261005.yml` · 2026-10-05T05:39:32Z._
