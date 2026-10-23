@@ -33,7 +33,7 @@
   "immutable": false,
   "prerelease": false,
   "created_at": "2026-10-19T19:08:55Z",
-  "updated_at": "2026-10-19T19:56:50Z",
+  "updated_at": "2026-10-22T21:14:16Z",
   "published_at": "2026-10-19T19:44:32Z",
   "assets": [
     {
@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1866,
       "digest": "sha256:54121df91fcb6223d68aaf069287e1fb0f8bbb76f04d697ed8b40b0563e6711a",
-      "download_count": 168,
+      "download_count": 185,
       "created_at": "2026-10-19T19:39:35Z",
       "updated_at": "2026-10-19T19:39:36Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5466876,
       "digest": "sha256:3a846183369f22eab11e6cea8fffc3c6099a66b54f0b15159111e188c1c0c63b",
-      "download_count": 26,
+      "download_count": 34,
       "created_at": "2026-10-19T19:34:05Z",
       "updated_at": "2026-10-19T19:34:14Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Darwin_arm64.tar.xz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6403348,
       "digest": "sha256:0205cbcbcdcfbaf58bbfbb78671648b93389bd98cb482af6853be82983ec033c",
-      "download_count": 12,
+      "download_count": 18,
       "created_at": "2026-10-19T19:34:05Z",
       "updated_at": "2026-10-19T19:34:15Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Darwin_x86_64.tar.xz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6982256,
       "digest": "sha256:e16ce54fc97cc70c07bc52fbb61b447b8fad23c80ac431beeecfacceb5496964",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-10-19T19:34:05Z",
       "updated_at": "2026-10-19T19:34:15Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Js_wasm.tar.xz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5291216,
       "digest": "sha256:4d8f5ea48722a2ab841b5a2e9cc3b991b0ddec0fedc445a7c713223e854f7258",
-      "download_count": 21,
+      "download_count": 41,
       "created_at": "2026-10-19T19:34:05Z",
       "updated_at": "2026-10-19T19:34:13Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Linux_arm64.tar.xz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 5657980,
       "digest": "sha256:efe2a8f42ed083aaa39a1b261f5b5b704a2bc49d283311b4bc9312ac857989df",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-10-19T19:34:05Z",
       "updated_at": "2026-10-19T19:34:14Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Linux_armv7.tar.xz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 5942604,
       "digest": "sha256:991bf2cddd42abb061f730f2a3c9cefc3f7b856b8974e6b002eea58ac047c3f9",
-      "download_count": 9,
+      "download_count": 13,
       "created_at": "2026-10-19T19:34:05Z",
       "updated_at": "2026-10-19T19:34:14Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Linux_i386.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 6351332,
       "digest": "sha256:638dc972d1ffbeda312e6b9c9633039b491d6a5b9fbcb03396999c06b62ee850",
-      "download_count": 250,
+      "download_count": 360,
       "created_at": "2026-10-19T19:34:05Z",
       "updated_at": "2026-10-19T19:34:14Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Linux_x86_64.tar.xz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 12181,
       "digest": "sha256:b71a99e987a45558b43782120dd87f04ce044b396ba58ff2ef341fe7202e8271",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-19T19:34:15Z",
       "updated_at": "2026-10-19T19:34:15Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Linux_x86_64.tar.xz.sbom.json"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 6826813,
       "digest": "sha256:f6019b942408e61bbb9c49c6baae84618da102239c58e7965792e2dc67981dd7",
-      "download_count": 33,
+      "download_count": 38,
       "created_at": "2026-10-19T19:34:05Z",
       "updated_at": "2026-10-19T19:34:15Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Windows_i386.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 7071702,
       "digest": "sha256:282cb436b6904895fe17cf13e10e8397fcf3ba222084986ac1382340761d3d55",
-      "download_count": 319,
+      "download_count": 413,
       "created_at": "2026-10-19T19:34:05Z",
       "updated_at": "2026-10-19T19:34:15Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Windows_x86_64.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 13671,
       "digest": "sha256:1a57f733450c092d5552a7f0f8d88f7d47244b8b717fa9c9ed73296ffd207f01",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-10-19T19:34:08Z",
       "updated_at": "2026-10-19T19:34:08Z",
       "browser_download_url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.3/pdfcpu_0.16.3_Windows_x86_64.zip.sbom.json"
@@ -723,7 +723,7 @@
   ],
   "tarball_url": "https://api.github.com/repos/pdfcpu/pdfcpu/tarball/v0.16.3",
   "zipball_url": "https://api.github.com/repos/pdfcpu/pdfcpu/zipball/v0.16.3",
-  "body": "# pdfcpu v0.16.3\r\n\r\nThis is a security update fixing configured decoded-byte limit bypasses and restricting local image access in create and form input.\r\n\r\n**Applications handling untrusted PDFs or create/form input should upgrade.**\r\n\r\n**Decoded-byte limits — [GHSA-jp42-qm45-2x6g](https://github.com/pdfcpu/pdfcpu/security/advisories/GHSA-jp42-qm45-2x6g):**\r\n\r\nHonor `Limits.MaxDecodeBytes` across stream decoding and combined page content, and stop cross-reference repair after\r\nlimit failures. Strengthen Flate predictor, DCT and cached-content checks, with regression coverage for strict/relaxed\r\nvalidation and eager/deferred decoding.\r\n\r\nThe limit bounds individual decoded streams and combined page content, not total process memory.\r\n\r\n**Additive Go API change:** Add `StreamDict.DecodeWithLimit` and `StreamDict.DecodeLengthWithLimit` to supply the\r\nconfigured decode limit explicitly.\r\n\r\n**Local image access — [GHSA-44h9-p34h-2w4p](https://github.com/pdfcpu/pdfcpu/security/advisories/GHSA-44h9-p34h-2w4p):**\r\n\r\nConfine local images referenced by `create`, `form fill`, and JSON/CSV `form multifill` input to an allowed directory.\r\nReject absolute paths, parent-directory components, symlink escapes and non-regular files, and report access denials\r\nas errors.\r\n\r\n**Compatibility change:** \r\nAPI callers must set `conf.LocalImageRoot` to enable local images; an empty value disables\r\nthem. The CLI defaults to its working directory; set `localImageRoot` in `config.yml` to select another root.\r\nUpdate image paths to be relative to that root. Confined local images are unavailable on `js/wasm`.\r\nSee [local image access](https://pdfcpu.io/create/create/#local-image-access) for migration guidance and limitations.\r\n\r\n**Documentation:** \r\nUpdated [security policy](https://github.com/pdfcpu/pdfcpu/blob/v0.16.3/SECURITY.md) clarifies vulnerability scope, supported releases and guidance for AI-assisted reports and multiple findings. \r\nUpdated [pull request template](https://github.com/pdfcpu/pdfcpu/blob/v0.16.3/.github/pull_request_template.md) clarifies contribution requirements.\r\nAdded local image configuration and migration guidance to README and website.\r\n\r\nRequires Go 1.26 or later, unchanged from v0.16.2.\r\n\r\n## Changelog\r\n* * 35ea259eb27d5a607f797edd41fd8a9e50a1f818 bump version\r\n* * 8befe54db401e8ed0ecb9d52aec700fa67b2972f confine local images in create and form input\r\n* * c1db2d55c0826689a129012fbac5a25d5fd3a39f honor configured decode limits across stream consumers\r\n\r\n",
+  "body": "# pdfcpu v0.16.3\r\n\r\nThis is a security update fixing configured decoded-byte limit bypasses and restricting local image access in create and form input.\r\n\r\n**Applications handling untrusted PDFs or create/form input should upgrade.**\r\n\r\n**Decoded-byte limits — [GHSA-jp42-qm45-2x6g](https://github.com/pdfcpu/pdfcpu/security/advisories/GHSA-jp42-qm45-2x6g):**\r\n\r\nHonor `Limits.MaxDecodeBytes` across stream decoding and combined page content, and stop cross-reference repair after\r\nlimit failures. Strengthen Flate predictor, DCT and cached-content checks, with regression coverage for strict/relaxed\r\nvalidation and eager/deferred decoding.\r\n\r\nThe limit bounds individual decoded streams and combined page content, not total process memory.\r\n\r\n**Additive Go API change:** Add `StreamDict.DecodeWithLimit` and `StreamDict.DecodeLengthWithLimit` to supply the\r\nconfigured decode limit explicitly.\r\n\r\n**Local image access — [GHSA-44h9-p34h-2w4p](https://github.com/pdfcpu/pdfcpu/security/advisories/GHSA-44h9-p34h-2w4p):**\r\n\r\nConfine local images referenced by `create`, `form fill`, and JSON/CSV `form multifill` input to an allowed directory.\r\nReject absolute paths, parent-directory components, symlink escapes and non-regular files, and report access denials\r\nas errors.\r\n\r\n**Compatibility change:** \r\nAPI callers must set `conf.LocalImageRoot` to enable local images; an empty value disables\r\nthem. The CLI defaults to its working directory; set `localImageRoot` in `config.yml` to select another root.\r\nUpdate image paths to be relative to that root. Confined local images are unavailable on `js/wasm`.\r\nSee [local image access](https://pdfcpu.io/create/create/#local-image-access) for migration guidance and limitations.\r\n\r\n**Documentation:** \r\nUpdated [security policy](https://github.com/pdfcpu/pdfcpu/blob/v0.16.3/SECURITY.md) clarifies vulnerability scope, supported releases and guidance for AI-assisted reports and multiple findings. \r\nUpdated [pull request template](https://github.com/pdfcpu/pdfcpu/blob/v0.16.3/.github/pull_request_template.md) clarifies contribution requirements.\r\nAdded local image configuration and migration guidance to README and website.\r\n\r\nRequires Go 1.26 or later, unchanged from v0.16.2.\r\n\r\n## Changelog\r\n* 35ea259eb27d5a607f797edd41fd8a9e50a1f818 bump version\r\n* 8befe54db401e8ed0ecb9d52aec700fa67b2972f confine local images in create and form input\r\n* c1db2d55c0826689a129012fbac5a25d5fd3a39f honor configured decode limits across stream consumers\r\n\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/pdfcpu/pdfcpu/releases/417668668/reactions",
     "total_count": 1,
