@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,881 · **Forks**: 643 · **Open issues**: 1,137 · **Contributors**: 54
+- **Stars**: 8,883 · **Forks**: 644 · **Open issues**: 1,138 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 89 · **Open PRs**: 0 · **Closed issues**: 1032 · **Open issues**: 105 · **Commits**: 1299
+- **Releases**: 76 · **Merged PRs**: 89 · **Open PRs**: 0 · **Closed issues**: 1032 · **Open issues**: 106 · **Commits**: 1299
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 4 | 0 | 0 | 16 | 6 | 131 |
-| last60d | 2026-08-25 | 5 | 0 | 0 | 27 | 7 | 170 |
-| 90d | 2026-07-26 | 8 | 0 | 0 | 35 | 10 | 197 |
-| last180d | 2026-04-27 | 10 | 2 | 0 | 68 | 12 | 291 |
-| 360d | 2025-10-29 | 11 | 7 | 0 | 124 | 19 | 322 |
-| last720d | 2024-11-03 | 14 | 37 | 0 | 270 | 50 | 462 |
+| 30d | 2026-09-25 | 4 | 0 | 0 | 16 | 7 | 131 |
+| last60d | 2026-08-26 | 5 | 0 | 0 | 27 | 8 | 170 |
+| 90d | 2026-07-27 | 8 | 0 | 0 | 35 | 10 | 197 |
+| last180d | 2026-04-28 | 10 | 2 | 0 | 66 | 13 | 291 |
+| 360d | 2025-10-30 | 11 | 7 | 0 | 123 | 20 | 322 |
+| last720d | 2024-11-04 | 14 | 37 | 0 | 266 | 51 | 461 |
 
 ## Release assets
 
@@ -91,12 +91,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/pdfcpu). **6** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/pdfcpu). **7** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `0.16.3` | ✅ latest |
-| Nix unstable | `0.16.1` | ⚠️ outdated |
+| Nix unstable | `0.16.3` | ✅ latest |
 | Void | `0.16.3` | ✅ latest |
 | Alpine edge | `0.13.0` | ⚠️ outdated |
 
@@ -109,4 +109,4 @@ Install metadata for pdfcpu lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:33:41Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:39:14Z._
