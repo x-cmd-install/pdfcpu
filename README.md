@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 4 | 0 | 0 | 16 | 7 | 131 |
-| last60d | 2026-08-26 | 5 | 0 | 0 | 27 | 8 | 170 |
-| 90d | 2026-07-27 | 8 | 0 | 0 | 35 | 10 | 197 |
-| last180d | 2026-04-28 | 10 | 2 | 0 | 66 | 13 | 291 |
-| 360d | 2025-10-30 | 11 | 7 | 0 | 123 | 20 | 322 |
-| last720d | 2024-11-04 | 14 | 37 | 0 | 266 | 51 | 461 |
+| 30d | 2026-09-26 | 4 | 0 | 0 | 16 | 7 | 127 |
+| last60d | 2026-08-27 | 5 | 0 | 0 | 26 | 8 | 163 |
+| 90d | 2026-07-28 | 8 | 0 | 0 | 34 | 10 | 188 |
+| last180d | 2026-04-29 | 10 | 2 | 0 | 66 | 13 | 286 |
+| 360d | 2025-10-31 | 11 | 7 | 0 | 123 | 19 | 321 |
+| last720d | 2024-11-05 | 14 | 37 | 0 | 264 | 51 | 460 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for pdfcpu lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:39:14Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:44:24Z._
