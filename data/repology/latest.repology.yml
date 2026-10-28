@@ -1,10 +1,3 @@
-- repo: homebrew
-  srcname: pdfcpu
-  visiblename: pdfcpu
-  version: 0.16.3
-  origversion: null
-  status: newest
-  summary: PDF processor written in Go
 - repo: alpine_3_22
   subrepo: community
   srcname: pdfcpu
@@ -98,19 +91,26 @@
   visiblename: print/pdfcpu
   version: 0.16.3
   origversion: 0.16.3_1
-  status: newest
+  status: outdated
   summary: PDF processor written in Go
   maintainers:
     - diizzy@freebsd.org
   categories:
     - print
+- repo: homebrew
+  srcname: pdfcpu
+  visiblename: pdfcpu
+  version: 0.16.3
+  origversion: null
+  status: outdated
+  summary: PDF processor written in Go
 - repo: macports
   srcname: textproc/pdfcpu
   binname: pdfcpu
   visiblename: pdfcpu
   version: 0.16.3
   origversion: null
-  status: newest
+  status: outdated
   summary: PDF processor written in Go
   maintainers:
     - i0ntempest@macports
@@ -179,7 +179,7 @@
   visiblename: pdfcpu
   version: 0.16.3
   origversion: null
-  status: newest
+  status: outdated
   summary: PDF processor written in Go
   maintainers:
     - me@doronbehar.com
@@ -189,7 +189,7 @@
   subrepo: main
   binname: pdfcpu
   visiblename: pdfcpu
-  version: 0.16.3
+  version: 0.16.4
   origversion: null
   status: newest
   licenses:
@@ -198,7 +198,7 @@
   srcname: pdfcpu
   binname: pdfcpu
   visiblename: pdfcpu
-  version: 0.16.3
+  version: 0.16.4
   origversion: null
   status: newest
   summary: A PDF processor written in Go
@@ -211,7 +211,7 @@
   visiblename: pdfcpu
   version: 0.16.3
   origversion: 0.16.3_1
-  status: newest
+  status: outdated
   summary: PDF processor
   maintainers:
     - abenson+void@gmail.com
