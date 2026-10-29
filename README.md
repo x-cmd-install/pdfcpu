@@ -14,11 +14,11 @@ x install pdfcpu
 
 ## Code insight
 
-Total: **280,587** lines of code across **917** files in the top 5 languages.
+Total: **280,799** lines of code across **918** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 219,683 | 20,935 | 30,995 | 731 |
+| Go | 219,895 | 20,956 | 31,010 | 732 |
 | Json | 59,316 | 0 | 599 | 109 |
 | Sh | 1,543 | 1,254 | 626 | 75 |
 | Yaml | 34 | 49 | 30 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.16.4` (2026-10-27)
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-10-28
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 8,886 · **Forks**: 644 · **Open issues**: 1,140 · **Contributors**: 54
+- **Stars**: 8,889 · **Forks**: 643 · **Open issues**: 1,140 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 89 · **Open PRs**: 0 · **Closed issues**: 1032 · **Open issues**: 108 · **Commits**: 1309
+- **Releases**: 77 · **Merged PRs**: 89 · **Open PRs**: 0 · **Closed issues**: 1033 · **Open issues**: 107 · **Commits**: 1310
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 5 | 0 | 0 | 16 | 9 | 137 |
-| last60d | 2026-08-29 | 6 | 0 | 0 | 26 | 10 | 173 |
-| 90d | 2026-07-30 | 8 | 0 | 0 | 33 | 10 | 198 |
-| last180d | 2026-05-01 | 11 | 2 | 0 | 66 | 15 | 296 |
-| 360d | 2025-11-02 | 12 | 7 | 0 | 123 | 21 | 331 |
-| last720d | 2024-11-07 | 15 | 37 | 0 | 263 | 53 | 470 |
+| 30d | 2026-09-29 | 4 | 0 | 0 | 17 | 8 | 138 |
+| last60d | 2026-08-30 | 6 | 0 | 0 | 27 | 9 | 174 |
+| 90d | 2026-07-31 | 8 | 0 | 0 | 34 | 9 | 199 |
+| last180d | 2026-05-02 | 11 | 2 | 0 | 67 | 14 | 297 |
+| 360d | 2025-11-03 | 12 | 7 | 0 | 123 | 20 | 332 |
+| last720d | 2024-11-08 | 15 | 37 | 0 | 264 | 52 | 471 |
 
 ## Release assets
 
@@ -91,11 +91,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/pdfcpu). **2** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/pdfcpu). **3** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.16.3` | ⚠️ outdated |
+| Homebrew | `0.16.4` | ✅ latest |
 | Nix unstable | `0.16.3` | ⚠️ outdated |
 | Void | `0.16.3` | ⚠️ outdated |
 | Alpine edge | `0.13.0` | ⚠️ outdated |
@@ -109,4 +109,4 @@ Install metadata for pdfcpu lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:33:33Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:49:33Z._
