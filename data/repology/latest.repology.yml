@@ -100,9 +100,9 @@
 - repo: homebrew
   srcname: pdfcpu
   visiblename: pdfcpu
-  version: 0.16.3
+  version: 0.16.4
   origversion: null
-  status: outdated
+  status: newest
   summary: PDF processor written in Go
 - repo: macports
   srcname: textproc/pdfcpu
