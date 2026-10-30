@@ -43,7 +43,7 @@
   binname: pdfcpu
   visiblename: pdfcpu
   version: 0.13.0
-  origversion: 0.13.0-r0
+  origversion: 0.13.0-r1
   status: outdated
   summary: PDF processor written in Go
   maintainers:
@@ -108,9 +108,9 @@
   srcname: textproc/pdfcpu
   binname: pdfcpu
   visiblename: pdfcpu
-  version: 0.16.3
+  version: 0.16.4
   origversion: null
-  status: outdated
+  status: newest
   summary: PDF processor written in Go
   maintainers:
     - i0ntempest@macports
