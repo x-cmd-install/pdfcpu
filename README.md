@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,889 · **Forks**: 643 · **Open issues**: 1,140 · **Contributors**: 54
+- **Stars**: 8,889 · **Forks**: 643 · **Open issues**: 1,141 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 89 · **Open PRs**: 0 · **Closed issues**: 1033 · **Open issues**: 107 · **Commits**: 1310
+- **Releases**: 77 · **Merged PRs**: 89 · **Open PRs**: 0 · **Closed issues**: 1033 · **Open issues**: 108 · **Commits**: 1310
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 4 | 0 | 0 | 17 | 8 | 138 |
-| last60d | 2026-08-30 | 6 | 0 | 0 | 27 | 9 | 174 |
-| 90d | 2026-07-31 | 8 | 0 | 0 | 34 | 9 | 199 |
-| last180d | 2026-05-02 | 11 | 2 | 0 | 67 | 14 | 297 |
-| 360d | 2025-11-03 | 12 | 7 | 0 | 123 | 20 | 332 |
-| last720d | 2024-11-08 | 15 | 37 | 0 | 264 | 52 | 471 |
+| 30d | 2026-09-30 | 4 | 0 | 0 | 17 | 9 | 138 |
+| last60d | 2026-08-31 | 6 | 0 | 0 | 27 | 10 | 174 |
+| 90d | 2026-08-01 | 8 | 0 | 0 | 34 | 10 | 199 |
+| last180d | 2026-05-03 | 11 | 2 | 0 | 66 | 15 | 297 |
+| 360d | 2025-11-04 | 12 | 7 | 0 | 122 | 21 | 332 |
+| last720d | 2024-11-09 | 15 | 37 | 0 | 264 | 53 | 470 |
 
 ## Release assets
 
@@ -91,7 +91,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/pdfcpu). **3** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/pdfcpu). **4** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -109,4 +109,4 @@ Install metadata for pdfcpu lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:49:33Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:47:55Z._
