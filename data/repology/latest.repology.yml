@@ -1,3 +1,15 @@
+- repo: aur
+  srcname: pdfcpu
+  binname: pdfcpu
+  visiblename: pdfcpu
+  version: 0.16.2
+  origversion: 0.16.2-1
+  status: outdated
+  summary: A PDF processor written in Go.
+  maintainers:
+    - rubo@aur
+  licenses:
+    - Apache-2.0
 - repo: alpine_3_22
   subrepo: community
   srcname: pdfcpu
@@ -51,18 +63,6 @@
   licenses:
     - Apache-2.0
 - repo: aur
-  srcname: pdfcpu
-  binname: pdfcpu
-  visiblename: pdfcpu
-  version: 0.16.2
-  origversion: 0.16.2-1
-  status: outdated
-  summary: A PDF processor written in Go.
-  maintainers:
-    - rubo@aur
-  licenses:
-    - Apache-2.0
-- repo: aur
   srcname: pdfcpu-bin
   binname: pdfcpu-bin
   visiblename: pdfcpu-bin
@@ -89,9 +89,9 @@
   srcname: print/pdfcpu
   binname: pdfcpu
   visiblename: print/pdfcpu
-  version: 0.16.3
-  origversion: 0.16.3_1
-  status: outdated
+  version: 0.16.4
+  origversion: null
+  status: newest
   summary: PDF processor written in Go
   maintainers:
     - diizzy@freebsd.org
