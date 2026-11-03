@@ -1,13 +1,12 @@
-- repo: aur
+- repo: nix_stable_25_11
   srcname: pdfcpu
-  binname: pdfcpu
   visiblename: pdfcpu
-  version: 0.16.2
-  origversion: 0.16.2-1
+  version: 0.11.1
+  origversion: null
   status: outdated
-  summary: A PDF processor written in Go.
+  summary: PDF processor written in Go
   maintainers:
-    - rubo@aur
+    - me@doronbehar.com
   licenses:
     - Apache-2.0
 - repo: alpine_3_22
@@ -60,6 +59,18 @@
   summary: PDF processor written in Go
   maintainers:
     - wanghao03@loongson.cn
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: pdfcpu
+  binname: pdfcpu
+  visiblename: pdfcpu
+  version: 0.16.2
+  origversion: 0.16.2-1
+  status: outdated
+  summary: A PDF processor written in Go.
+  maintainers:
+    - rubo@aur
   licenses:
     - Apache-2.0
 - repo: aur
@@ -152,17 +163,6 @@
     - me@doronbehar.com
   licenses:
     - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: pdfcpu
-  visiblename: pdfcpu
-  version: 0.11.1
-  origversion: null
-  status: outdated
-  summary: PDF processor written in Go
-  maintainers:
-    - me@doronbehar.com
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: pdfcpu
   visiblename: pdfcpu
@@ -209,9 +209,9 @@
   srcname: pdfcpu
   binname: pdfcpu
   visiblename: pdfcpu
-  version: 0.16.3
-  origversion: 0.16.3_1
-  status: outdated
+  version: 0.16.4
+  origversion: 0.16.4_1
+  status: newest
   summary: PDF processor
   maintainers:
     - abenson+void@gmail.com
