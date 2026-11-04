@@ -1,14 +1,3 @@
-- repo: nix_stable_25_11
-  srcname: pdfcpu
-  visiblename: pdfcpu
-  version: 0.11.1
-  origversion: null
-  status: outdated
-  summary: PDF processor written in Go
-  maintainers:
-    - me@doronbehar.com
-  licenses:
-    - Apache-2.0
 - repo: alpine_3_22
   subrepo: community
   srcname: pdfcpu
@@ -163,6 +152,17 @@
     - me@doronbehar.com
   licenses:
     - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: pdfcpu
+  visiblename: pdfcpu
+  version: 0.11.1
+  origversion: null
+  status: outdated
+  summary: PDF processor written in Go
+  maintainers:
+    - me@doronbehar.com
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: pdfcpu
   visiblename: pdfcpu
@@ -177,9 +177,9 @@
 - repo: nix_unstable
   srcname: pdfcpu
   visiblename: pdfcpu
-  version: 0.16.3
+  version: 0.16.4
   origversion: null
-  status: outdated
+  status: newest
   summary: PDF processor written in Go
   maintainers:
     - me@doronbehar.com
