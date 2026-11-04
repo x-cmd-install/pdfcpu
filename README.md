@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 4 | 0 | 1 | 16 | 9 | 107 |
-| last60d | 2026-09-04 | 6 | 0 | 1 | 25 | 10 | 172 |
-| 90d | 2026-08-05 | 7 | 0 | 1 | 34 | 10 | 193 |
-| last180d | 2026-05-07 | 11 | 1 | 1 | 61 | 13 | 294 |
-| 360d | 2025-11-08 | 12 | 7 | 1 | 121 | 21 | 329 |
-| last720d | 2024-11-13 | 15 | 37 | 1 | 264 | 53 | 466 |
+| 30d | 2026-10-05 | 3 | 0 | 1 | 16 | 9 | 107 |
+| last60d | 2026-09-05 | 6 | 0 | 1 | 25 | 10 | 172 |
+| 90d | 2026-08-06 | 7 | 0 | 1 | 34 | 10 | 193 |
+| last180d | 2026-05-08 | 11 | 1 | 1 | 61 | 13 | 294 |
+| 360d | 2025-11-09 | 12 | 7 | 1 | 121 | 21 | 329 |
+| last720d | 2024-11-14 | 15 | 37 | 1 | 263 | 53 | 466 |
 
 ## Release assets
 
@@ -91,12 +91,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/pdfcpu). **6** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/pdfcpu). **7** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `0.16.4` | ✅ latest |
-| Nix unstable | `0.16.3` | ⚠️ outdated |
+| Nix unstable | `0.16.4` | ✅ latest |
 | Void | `0.16.4` | ✅ latest |
 | Alpine edge | `0.13.0` | ⚠️ outdated |
 
@@ -109,4 +109,4 @@ Install metadata for pdfcpu lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:44:47Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:10:14Z._
