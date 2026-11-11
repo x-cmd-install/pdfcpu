@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,904 · **Forks**: 647 · **Open issues**: 1,145 · **Contributors**: 54
+- **Stars**: 8,905 · **Forks**: 651 · **Open issues**: 1,149 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 89 · **Open PRs**: 1 · **Closed issues**: 1034 · **Open issues**: 111 · **Commits**: 1310
+- **Releases**: 77 · **Merged PRs**: 89 · **Open PRs**: 1 · **Closed issues**: 1034 · **Open issues**: 115 · **Commits**: 1310
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 3 | 0 | 1 | 4 | 10 | 16 |
-| last60d | 2026-09-11 | 6 | 0 | 1 | 24 | 13 | 158 |
-| 90d | 2026-08-12 | 6 | 0 | 1 | 34 | 13 | 185 |
-| last180d | 2026-05-14 | 10 | 1 | 1 | 62 | 16 | 285 |
-| 360d | 2025-11-15 | 12 | 7 | 1 | 119 | 24 | 329 |
-| last720d | 2024-11-20 | 15 | 36 | 1 | 264 | 54 | 465 |
+| 30d | 2026-10-12 | 2 | 0 | 1 | 4 | 14 | 16 |
+| last60d | 2026-09-12 | 6 | 0 | 1 | 24 | 17 | 158 |
+| 90d | 2026-08-13 | 6 | 0 | 1 | 33 | 17 | 185 |
+| last180d | 2026-05-15 | 10 | 1 | 1 | 62 | 20 | 285 |
+| 360d | 2025-11-16 | 12 | 7 | 1 | 119 | 28 | 329 |
+| last720d | 2024-11-21 | 15 | 36 | 1 | 263 | 58 | 465 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for pdfcpu lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:14:58Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:15:17Z._
