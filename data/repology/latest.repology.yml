@@ -1,25 +1,23 @@
-- repo: aur
+- repo: nix_stable_25_11
   srcname: pdfcpu
-  binname: pdfcpu
   visiblename: pdfcpu
-  version: 0.16.2
-  origversion: 0.16.2-1
+  version: 0.11.1
+  origversion: null
   status: outdated
-  summary: A PDF processor written in Go.
+  summary: PDF processor written in Go
   maintainers:
-    - rubo@aur
+    - me@doronbehar.com
   licenses:
     - Apache-2.0
-- repo: aur
-  srcname: pdfcpu-bin
-  binname: pdfcpu-bin
-  visiblename: pdfcpu-bin
-  version: 0.16.2
-  origversion: 0.16.2-1
+- repo: nix_stable_25_05
+  srcname: pdfcpu
+  visiblename: pdfcpu
+  version: 0.10.2
+  origversion: null
   status: outdated
-  summary: A PDF processor written in Go.
+  summary: PDF processor written in Go
   maintainers:
-    - gromit@aur
+    - me@doronbehar.com
   licenses:
     - Apache-2.0
 - repo: alpine_3_22
@@ -74,6 +72,30 @@
     - wanghao03@loongson.cn
   licenses:
     - Apache-2.0
+- repo: aur
+  srcname: pdfcpu
+  binname: pdfcpu
+  visiblename: pdfcpu
+  version: 0.16.4
+  origversion: 0.16.4-1
+  status: newest
+  summary: A PDF processor written in Go.
+  maintainers:
+    - rubo@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: pdfcpu-bin
+  binname: pdfcpu-bin
+  visiblename: pdfcpu-bin
+  version: 0.16.2
+  origversion: 0.16.2-1
+  status: outdated
+  summary: A PDF processor written in Go.
+  maintainers:
+    - gromit@aur
+  licenses:
+    - Apache-2.0
 - repo: chimera
   subrepo: user
   srcname: pdfcpu
@@ -94,7 +116,7 @@
   status: newest
   summary: PDF processor written in Go
   maintainers:
-    - diizzy@freebsd.org
+    - daniel.engberg.lists@pyret.net
   categories:
     - print
 - repo: homebrew
@@ -134,28 +156,6 @@
   srcname: pdfcpu
   visiblename: pdfcpu
   version: 0.9.1
-  origversion: null
-  status: outdated
-  summary: PDF processor written in Go
-  maintainers:
-    - me@doronbehar.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: pdfcpu
-  visiblename: pdfcpu
-  version: 0.10.2
-  origversion: null
-  status: outdated
-  summary: PDF processor written in Go
-  maintainers:
-    - me@doronbehar.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: pdfcpu
-  visiblename: pdfcpu
-  version: 0.11.1
   origversion: null
   status: outdated
   summary: PDF processor written in Go
