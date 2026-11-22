@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 89 · **Open PRs**: 1 · **Closed issues**: 1034 · **Open issues**: 121 · **Commits**: 1310
+- **Releases**: 77 · **Merged PRs**: 89 · **Open PRs**: 1 · **Closed issues**: 1035 · **Open issues**: 120 · **Commits**: 1310
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 0 | 1 | 3 | 16 | 10 |
-| last60d | 2026-09-22 | 5 | 0 | 1 | 20 | 23 | 142 |
-| 90d | 2026-08-23 | 6 | 0 | 1 | 31 | 23 | 183 |
-| last180d | 2026-05-25 | 10 | 1 | 1 | 60 | 26 | 279 |
-| 360d | 2025-11-26 | 12 | 6 | 1 | 112 | 33 | 324 |
-| last720d | 2024-12-01 | 15 | 33 | 1 | 253 | 64 | 460 |
+| 30d | 2026-10-23 | 1 | 0 | 1 | 4 | 15 | 10 |
+| last60d | 2026-09-23 | 5 | 0 | 1 | 20 | 21 | 142 |
+| 90d | 2026-08-24 | 6 | 0 | 1 | 31 | 22 | 183 |
+| last180d | 2026-05-26 | 10 | 1 | 1 | 61 | 25 | 279 |
+| 360d | 2025-11-27 | 12 | 6 | 1 | 113 | 32 | 324 |
+| last720d | 2024-12-02 | 15 | 31 | 1 | 251 | 63 | 459 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for pdfcpu lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:11:56Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:41:57Z._
