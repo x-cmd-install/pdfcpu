@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,920 · **Forks**: 654 · **Open issues**: 1,158 · **Contributors**: 54
+- **Stars**: 8,923 · **Forks**: 654 · **Open issues**: 1,158 · **Contributors**: 54
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 0 | 1 | 3 | 17 | 0 |
-| last60d | 2026-09-26 | 5 | 0 | 1 | 20 | 24 | 138 |
-| 90d | 2026-08-27 | 6 | 0 | 1 | 30 | 25 | 179 |
-| last180d | 2026-05-29 | 10 | 1 | 1 | 60 | 28 | 260 |
-| 360d | 2025-11-30 | 12 | 6 | 1 | 112 | 35 | 323 |
-| last720d | 2024-12-05 | 15 | 30 | 1 | 248 | 65 | 457 |
+| 30d | 2026-10-27 | 1 | 0 | 1 | 3 | 16 | 0 |
+| last60d | 2026-09-27 | 5 | 0 | 1 | 20 | 24 | 0 |
+| 90d | 2026-08-28 | 6 | 0 | 1 | 30 | 25 | 0 |
+| last180d | 2026-05-30 | 10 | 1 | 1 | 60 | 28 | 0 |
+| 360d | 2025-12-01 | 12 | 6 | 1 | 112 | 35 | 0 |
+| last720d | 2024-12-06 | 15 | 30 | 1 | 248 | 65 | 457 |
 
 ## Release assets
 
@@ -89,17 +89,6 @@ Lowest-scoring checks:
 | [pdfcpu_0.16.4_Windows_x86_64.zip](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.4/pdfcpu_0.16.4_Windows_x86_64.zip) | 6.8 MiB | `native/win/x64` |
 | [pdfcpu_0.16.4_Windows_x86_64.zip.sbom.json](https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.4/pdfcpu_0.16.4_Windows_x86_64.zip.sbom.json) | 13.4 KiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **19** distros on [repology.org](https://repology.org/project/pdfcpu). **8** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.16.4` | ✅ latest |
-| Nix unstable | `0.16.4` | ✅ latest |
-| Void | `0.16.4` | ✅ latest |
-| Alpine edge | `0.13.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for pdfcpu lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pdfcpu` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -109,4 +98,4 @@ Install metadata for pdfcpu lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:27:13Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:18:35Z._
